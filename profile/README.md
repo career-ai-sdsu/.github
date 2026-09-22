@@ -24,8 +24,11 @@ We are following the machine learning workflow introduced through the SDSU AI Cl
 ## Team
 
 5 student contributors from computer science and related disciplines.
+- Isabella Inio
+- Andrea Panaitidi
 - Cameron Penaranda
 - Justin Paul Liporada
+- Kaya Manglona
 
 ## Status
 
